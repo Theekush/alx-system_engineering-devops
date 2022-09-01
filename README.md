@@ -1,1 +1,1 @@
-Task 0.Whera im I?
+Create a script that switches the current user to the user betty
